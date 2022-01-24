@@ -1,0 +1,15 @@
+{
+  "name": "egov-3-homework",
+  "version": "1.0.0",
+  "description": "pap crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Claudiu98n",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  }
+}
